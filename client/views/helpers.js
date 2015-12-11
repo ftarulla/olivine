@@ -1,0 +1,4 @@
+
+Template.base.helpers({
+
+});

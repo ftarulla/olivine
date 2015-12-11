@@ -1,0 +1,4 @@
+
+Template.base.rendered = function() {
+
+}
